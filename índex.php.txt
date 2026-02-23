@@ -1,0 +1,8 @@
+<h1>Autoescuela</h1>
+
+<ul>
+    <li><a href="clientes/listar.php">Clientes</a></li>
+    <li><a href="profesores/listar.php">Profesores</a></li>
+    <li><a href="vehiculos/listar.php">Vehículos</a></li>
+    <li><a href="clases/listar.php">Clases</a></li>
+</ul>
